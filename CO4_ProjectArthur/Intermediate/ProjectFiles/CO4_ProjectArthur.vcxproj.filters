@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CO4_ProjectArthur.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{55F37F5D-10C5-4610-947C-61BEDF155025}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CO4_ProjectArthur.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CO4_ProjectArthurEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{37EF6230-0F27-46A5-993E-A251D676FD54}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CO4_ProjectArthur">
+      <UniqueIdentifier>{34D7900C-EBBA-4C9A-8D5B-2FE045E03BB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthur.Build.cs">
+      <Filter>Source\CO4_ProjectArthur</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthur.cpp">
+      <Filter>Source\CO4_ProjectArthur</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthur.h">
+      <Filter>Source\CO4_ProjectArthur</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthurCharacter.cpp">
+      <Filter>Source\CO4_ProjectArthur</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthurCharacter.h">
+      <Filter>Source\CO4_ProjectArthur</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthurGameMode.cpp">
+      <Filter>Source\CO4_ProjectArthur</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthurGameMode.h">
+      <Filter>Source\CO4_ProjectArthur</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
