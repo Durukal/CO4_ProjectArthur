@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Unreal\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\Source\\CO4_ProjectArthur\\CO4_ProjectArthur.Build.cs",
-		"D:\\Unreal\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\Source\\CO4_ProjectArthur.Target.cs",
-		"D:\\Unreal\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\Source\\CO4_ProjectArthurEditor.Target.cs"
+		"D:\\Unreal\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\Source\\CO4_ProjectArthur\\CO4_ProjectArthur.Build.cs",
+		"D:\\Unreal\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\Source\\CO4_ProjectArthur.Target.cs",
+		"D:\\Unreal\\CO4_ProjectArthur\\CO4_ProjectArthur\\CO4_ProjectArthur\\Source\\CO4_ProjectArthurEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
