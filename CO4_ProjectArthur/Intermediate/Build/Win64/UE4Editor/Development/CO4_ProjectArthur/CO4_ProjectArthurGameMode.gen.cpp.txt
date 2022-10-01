@@ -1,9 +1,9 @@
-D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\Definitions.CO4_ProjectArthur.h
-D:\Program Files B\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files B\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Source\CO4_ProjectArthur/CO4_ProjectArthurGameMode.h
-D:\Program Files B\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Program Files B\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Program Files B\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Program Files B\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Inc\CO4_ProjectArthur\CO4_ProjectArthurGameMode.generated.h
+D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\Definitions.CO4_ProjectArthur.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Source\CO4_ProjectArthur/CO4_ProjectArthurGameMode.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Inc\CO4_ProjectArthur\CO4_ProjectArthurGameMode.generated.h
