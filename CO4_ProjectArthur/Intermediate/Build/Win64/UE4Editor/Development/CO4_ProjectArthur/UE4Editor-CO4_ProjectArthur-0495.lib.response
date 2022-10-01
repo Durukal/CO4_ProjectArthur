@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CO4_ProjectArthur-0495.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\CO4_ProjectArthurEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\CO4_ProjectArthur.cpp.obj"
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\CO4_ProjectArthurCharacter.cpp.obj"
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\CO4_ProjectArthurGameMode.cpp.obj"
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\CO4_ProjectArthur.init.gen.cpp.obj"
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\CO4_ProjectArthurCharacter.gen.cpp.obj"
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\CO4_ProjectArthurGameMode.gen.cpp.obj"
+"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\Default.rc2.res"
+/OUT:"D:\Unreal\CO4_ProjectArthur\CO4_ProjectArthur\CO4_ProjectArthur\Intermediate\Build\Win64\UE4Editor\Development\CO4_ProjectArthur\UE4Editor-CO4_ProjectArthur-0495.lib"

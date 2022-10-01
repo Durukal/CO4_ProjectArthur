@@ -287,6 +287,7 @@
     <None Include="..\..\CO4_ProjectArthur.uproject"/>
     <None Include="..\..\Source\CO4_ProjectArthur.Target.cs"/>
     <None Include="..\..\Source\CO4_ProjectArthurEditor.Target.cs"/>
+    <None Include="..\..\SCK_Casual01.png"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

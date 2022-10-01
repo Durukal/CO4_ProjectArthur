@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CO4_ProjectArthur.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{55F37F5D-10C5-4610-947C-61BEDF155025}</UniqueIdentifier>
+      <UniqueIdentifier>{4F636EF3-E079-46C5-9D01-994AEA35817E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CO4_ProjectArthur.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\CO4_ProjectArthurEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\SCK_Casual01.png" />
     <Filter Include="Config">
-      <UniqueIdentifier>{37EF6230-0F27-46A5-993E-A251D676FD54}</UniqueIdentifier>
+      <UniqueIdentifier>{3B4BA04F-06CB-4E10-A80E-BCBD2C3F85C5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\CO4_ProjectArthur">
-      <UniqueIdentifier>{34D7900C-EBBA-4C9A-8D5B-2FE045E03BB8}</UniqueIdentifier>
+      <UniqueIdentifier>{7287AAF8-B40E-4F85-B97F-48D7883DF343}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CO4_ProjectArthur\CO4_ProjectArthur.Build.cs">
       <Filter>Source\CO4_ProjectArthur</Filter>
